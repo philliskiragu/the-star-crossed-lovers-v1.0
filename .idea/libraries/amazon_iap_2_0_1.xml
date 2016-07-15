@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="amazon-iap-2.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/thestarcrossedlovers/libs/amazon-iap-2.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

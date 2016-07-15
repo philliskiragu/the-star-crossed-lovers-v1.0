@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\build\\intermediates\\res\\merged\\debug\\layout\\chooser_item.xml",
+        "source": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\src\\main\\res\\layout\\chooser_item.xml"
+    },
+    {
+        "merged": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\build\\intermediates\\res\\merged\\debug\\layout\\status_bar_ongoing_event_progress_bar.xml",
+        "source": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\build\\intermediates\\exploded-aar\\the star-crossed lovers-v1.0\\downloader_library\\unspecified\\res\\layout\\status_bar_ongoing_event_progress_bar.xml"
+    },
+    {
+        "merged": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\build\\intermediates\\res\\merged\\debug\\layout\\project_chooser.xml",
+        "source": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\src\\main\\res\\layout\\project_chooser.xml"
+    },
+    {
+        "merged": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\build\\intermediates\\res\\merged\\debug\\layout\\downloader.xml",
+        "source": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\src\\main\\res\\layout\\downloader.xml"
+    },
+    {
+        "merged": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\build\\intermediates\\res\\merged\\debug\\layout\\project_empty.xml",
+        "source": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\src\\main\\res\\layout\\project_empty.xml"
+    }
+]

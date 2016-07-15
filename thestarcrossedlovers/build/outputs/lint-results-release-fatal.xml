@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="4" by="lint 25.1.7">
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/downloaderDashboard`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/downloaderDashboard&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\res\layout\downloader.xml"
+            line="83"
+            column="17"/>
+        <location
+            file="D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\res\layout\downloader.xml"
+            line="23"
+            column="13"/>
+    </issue>
+
+</issues>

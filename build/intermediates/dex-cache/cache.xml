@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\build\intermediates\pre-dexed\release\internal_impl-21.0.0_b465e27b94dae4d59bcf1cf015fe5a59f7b2d03a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phillo Peters\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\build\intermediates\pre-dexed\release\support-annotations-21.0.0_7a09b45ef7e6624e4f34d1541e385b0b5a917575.jar" />
+    </item>
+    <item
+        jar="D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\libs\amazon-iap-2.0.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="201cfffd353ccbf85343100acc2dd6b96c31d2b8">
+        <dex dex="D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\build\intermediates\pre-dexed\release\amazon-iap-2.0.1_1827187b38c10611dd75790f033be75ae7f604b6.jar" />
+    </item>
+    <item
+        jar="D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\build\intermediates\exploded-aar\the star-crossed lovers-v1.0\downloader_library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="67b1cacd2ce14da27ce17157c7e9e09161c514a5">
+        <dex dex="D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\build\intermediates\pre-dexed\release\the star-crossed lovers-v1.0-downloader_library-unspecified_ddf1c0d685c4adbef953a862064c7e5ba3a5af3a.jar" />
+    </item>
+    <item
+        jar="D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\build\intermediates\pre-dexed\release\com.android.support-support-v4-21.0.0_d8f3bc5d1351b43741606f45bbd9c407816f70c7.jar" />
+    </item>
+    <item
+        jar="D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-6.5.87_0afb5dee9758efed280296f76d05529eb6e4055d.jar" />
+    </item>
+    <item
+        jar="D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\build\intermediates\exploded-aar\the star-crossed lovers-v1.0\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="7dfddfc9d755437e0e958c73454873c50cb3aec6">
+        <dex dex="D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\build\intermediates\pre-dexed\release\the star-crossed lovers-v1.0-library-unspecified_f523e3eb6d6d0585de6edb402c4d0878071250e2.jar" />
+    </item>
+
+</items>

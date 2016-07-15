@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\build\\intermediates\\res\\merged\\release\\drawable\\icon.png",
+        "source": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\build\\intermediates\\res\\merged\\release\\drawable\\common_signin_btn_text_light.xml",
+        "source": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\build\\intermediates\\res\\merged\\release\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\build\\intermediates\\res\\merged\\release\\drawable\\presplash.jpg",
+        "source": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\src\\main\\res\\drawable\\presplash.jpg"
+    },
+    {
+        "merged": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\build\\intermediates\\res\\merged\\release\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\build\\intermediates\\res\\merged\\release\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "D:\\Apps\\apps\\the star-crossed lovers-v1.0\\thestarcrossedlovers\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_icon_light.xml"
+    }
+]

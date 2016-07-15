@@ -1,0 +1,37 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "24.0.0"
+    dexOptions {
+        preDexLibraries true
+        javaMaxHeapSize "4g"
+        incremental true
+        dexInProcess = true
+    }
+    defaultConfig {
+        applicationId "com.stringenttechnologies.thestarcrossedlovers"
+        minSdkVersion 10
+        targetSdkVersion 8
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+        lintOptions {
+            checkReleaseBuilds false
+            // Or, if you prefer, you can continue to check for errors in release builds,
+            // but continue the build even when errors are found:
+            abortOnError false
+        }
+}
+
+dependencies {
+    compile project(':downloader_library')
+    compile files('libs/amazon-iap-2.0.1.jar')
+    compile 'com.google.android.gms:play-services:6.+'
+}

@@ -1,0 +1,141 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:2:1-68:12
+	xmlns:android
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:3:11-67
+		INJECTED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml
+		INJECTED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml
+		INJECTED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:4:11-36
+		INJECTED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml
+		INJECTED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:6:11-41
+application
+ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:9:3-44:17
+MERGED from [com.google.android.gms:play-services:6.5.87] D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:21.0.0] D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:9:16-47
+	android:allowBackup
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:11:16-42
+	android:icon
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:10:16-45
+	android:theme
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:12:16-74
+	android:hardwareAccelerated
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:13:16-50
+meta-data#com.google.android.gms.version
+ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:15:7-16:67
+MERGED from [com.google.android.gms:play-services:6.5.87] D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\AndroidManifest.xml:21:9-23:69
+	android:name
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:15:18-63
+	android:value
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:16:11-64
+meta-data#wakelock
+ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:17:5-60
+	android:name
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:17:16-39
+	android:value
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:17:40-57
+meta-data#surface.transparent
+ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:18:5-71
+	android:name
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:18:16-50
+	android:value
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:18:51-68
+meta-data#fullscreen
+ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:19:5-62
+	android:name
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:19:16-41
+	android:value
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:19:42-59
+activity#org.renpy.android.PythonSDLActivity
+ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:22:5-37:16
+	android:screenOrientation
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:25:15-58
+	android:label
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:23:15-47
+	android:configChanges
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:26:15-76
+	android:name
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:22:15-65
+	android:launchMode
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:24:15-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+tv.ouya.intent.category.GAME
+ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:30:7-34:25
+action#android.intent.action.MAIN
+ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:31:9-61
+	android:name
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:31:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:32:9-69
+	android:name
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:32:19-66
+category#tv.ouya.intent.category.GAME
+ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:33:9-65
+	android:name
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:33:19-62
+activity#com.google.android.gms.ads.AdActivity
+ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:39:7-41:62
+	android:configChanges
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:40:11-120
+	android:theme
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:41:11-59
+	android:name
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:39:17-69
+uses-feature#0x00020000
+ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:46:3-76
+	android:required
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:46:50-73
+	android:glEsVersion
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:46:17-49
+uses-sdk
+ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:47:3-70
+MERGED from [the star-crossed lovers-v1.0:downloader_library:unspecified] D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\build\intermediates\exploded-aar\the star-crossed lovers-v1.0\downloader_library\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [the star-crossed lovers-v1.0:library:unspecified] D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\build\intermediates\exploded-aar\the star-crossed lovers-v1.0\library\unspecified\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.gms:play-services:6.5.87] D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:21.0.0] D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:47:40-68
+		INJECTED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml
+		INJECTED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:47:13-39
+		INJECTED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml
+		INJECTED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:49:3-66
+	android:name
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:49:20-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:50:3-79
+	android:name
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:50:20-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:52:3-76
+	android:name
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:52:20-74
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:55:3-70
+MERGED from [the star-crossed lovers-v1.0:library:unspecified] D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\build\intermediates\exploded-aar\the star-crossed lovers-v1.0\library\unspecified\AndroidManifest.xml:26:5-73
+	android:name
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:55:20-68
+uses-permission#com.android.vending.BILLING
+ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:58:3-64
+	android:name
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:58:20-62
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:62:3-64
+	android:name
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:62:20-61
+uses-permission#android.permission.INTERNET
+ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:64:3-65
+	android:name
+		ADDED from D:\Apps\apps\the star-crossed lovers-v1.0\thestarcrossedlovers\src\main\AndroidManifest.xml:64:20-62
